@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "0oXJ66jPKLs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nips\\Desktop\\Projects\\MetaV66_Fix\\MetaV66_Fix\\MetaV66_Fix.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nips\\.nuget\\packages\\sharpcompress\\0.37.2\\sharpcompress.0.37.2.nupkg.sha512",
+    "C:\\Users\\Nips\\.nuget\\packages\\system.codedom\\8.0.0\\system.codedom.8.0.0.nupkg.sha512",
+    "C:\\Users\\Nips\\.nuget\\packages\\system.diagnostics.eventlog\\8.0.0\\system.diagnostics.eventlog.8.0.0.nupkg.sha512",
+    "C:\\Users\\Nips\\.nuget\\packages\\system.management\\8.0.0\\system.management.8.0.0.nupkg.sha512",
+    "C:\\Users\\Nips\\.nuget\\packages\\system.serviceprocess.servicecontroller\\8.0.0\\system.serviceprocess.servicecontroller.8.0.0.nupkg.sha512",
+    "C:\\Users\\Nips\\.nuget\\packages\\zstdsharp.port\\0.8.0\\zstdsharp.port.0.8.0.nupkg.sha512"
+  ],
+  "logs": []
+}

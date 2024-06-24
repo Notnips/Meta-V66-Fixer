@@ -306,11 +306,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Nips\\Desktop\\Projects\\MetaV66_Fix\\MetaV66_Fix\\MetaV66_Fix.csproj",
+      "projectUniqueName": "C:\\Users\\Nips\\Desktop\\Projects\\Meta-V66-Fixer\\MetaV66_Fix\\MetaV66_Fix.csproj",
       "projectName": "MetaV66_Fix",
-      "projectPath": "C:\\Users\\Nips\\Desktop\\Projects\\MetaV66_Fix\\MetaV66_Fix\\MetaV66_Fix.csproj",
+      "projectPath": "C:\\Users\\Nips\\Desktop\\Projects\\Meta-V66-Fixer\\MetaV66_Fix\\MetaV66_Fix.csproj",
       "packagesPath": "C:\\Users\\Nips\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Nips\\Desktop\\Projects\\MetaV66_Fix\\MetaV66_Fix\\obj\\",
+      "outputPath": "C:\\Users\\Nips\\Desktop\\Projects\\Meta-V66-Fixer\\MetaV66_Fix\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "W:\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -189,11 +189,6 @@ namespace MetaV66_Fix
                             progress++;
                             int percentComplete = (int)((float)progress / entryCount * 100);
                             backgroundWorker.ReportProgress(percentComplete);
-                            if (progress == 75)
-                            {
-                                label1.Text = "Almost Done...";
-                                label1.Update();
-                            }
                         }
                         else
                         {
@@ -230,8 +225,9 @@ namespace MetaV66_Fix
             }
 
             progressBar1.Visible = false;
-            button1.Visible = true;
+            button1.Visible = false;
             button2.Visible = true;
+            StartService("OVRService");
         }
 
         private void Form1_Load(object sender, EventArgs e)
